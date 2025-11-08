@@ -2,7 +2,7 @@ name: Docker CI
 
 on:
   push:
-    branches: ["humble"]
+    branches: ["nav2_dev"]
 
 env:
   REGISTRY: ghcr.io
